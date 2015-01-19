@@ -54,7 +54,7 @@ group :development, :test do
 end
 
 group :production do
-  gem 'gd'
+#  gem 'gd'
   # TODO: I may need to delete this one because its rail 4?
-  gem 'rails_12factor'
+#  gem 'rails_12factor'
 end
